@@ -14,6 +14,7 @@
  - <B>Audio:</B> name, extension, frequency, seconds, channels, size, loading type and location
  - <B>Script:</B> name, extension and location
  - <B>Prefab:</B> name, extension and location
+ - <B>Scene:</B> name, loading, extension and location
  
  # Usage:
  
@@ -25,3 +26,6 @@
 
   Even though all the unused assets wouldn’t be included in the final release when deploy a build from Unity, it is still necessary to monitor how efficient art assets are used in game and optimise whatever is necessary based exposed data here, for example vertex count, mesh LODs, texture resolution, compression, size, sub-materials, shader and etc. By all means to achieve the best visual fidelity with acceptable memory usage and performance possible.
   
+ <a href="http://u3d.as/HoT"><img class="alignnone size-full wp-image-4089" src="https://thepossiblehorizon.files.wordpress.com/2017/02/scavengeronassetstore1.jpg" alt="scavengeronassetstore" width="1600" height="650" /></a>
+ 
+  Will definitely follow up with user feedback for its future improvement especailly with new ideas and bug reports.
