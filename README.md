@@ -28,4 +28,4 @@
   
  <a href="http://u3d.as/HoT"><img class="alignnone size-full wp-image-4089" src="https://thepossiblehorizon.files.wordpress.com/2017/02/scavengeronassetstore1.jpg" alt="scavengeronassetstore" width="1600" height="650" /></a>
  
-  Will definitely follow up with user feedback for its future improvement especailly with new ideas and bug reports.
+  Will definitely follow up with user feedback for its future improvement especially with new ideas and bug reports.
